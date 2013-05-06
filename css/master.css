@@ -84,12 +84,7 @@ a:visited,
 a:hover {
 text-decoration:underline;
 }
-a{
--moz-transition:color 0.3s ease-out;
-	-webkit-transition:color 0.3s ease-out;
-	-o-transition:color 0.3s ease-out;
-	transition:color 0.3s ease-out;
-}
+
 /***** Forms *****/
  
 form {
