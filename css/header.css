@@ -1,5 +1,5 @@
 .fixed_navigation{
-position:fixed;
+
 top:0px;
 width: 100%;
 height: 40px;
@@ -9,6 +9,7 @@ box-shadow: 1px 1px 10px rgba(0,0,0,0.2);
 .headerNav {
 height: 100%;
 line-height:40px;
+z-index:1001;
 }
 
 .headerNav ul li {

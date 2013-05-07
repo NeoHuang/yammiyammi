@@ -7,6 +7,7 @@ padding:0;
 }
 body {
 font:100%/1.25 Arial, Helvetica, sans-serif;
+
 }
  
 /***** Headings *****/
@@ -123,6 +124,9 @@ padding:2px;
 .wrapper {
 width:960px;
 margin:0 auto;
+}
+.content {
+margin-top: 40px;
 }
  
 /***** Global Classes *****/
